@@ -43,6 +43,8 @@ Os feriados foram importados com as seguintes configurações:
 
 Importar o arquivo .ics para todos as contas do ambiente conforme o EXEMPLO abaixo:
 
+> wget https://github.com/BktechBrazil/zimbra-feriados-brasil/raw/master/Brasil-feriados-2020.ics
+
 > zmmailbox -z -m conta@dominio.com.br pru /Calendar Brasil-feriados-2020.ics
 
 ### Também pode ser importado atavés da opção Exportar/Importar do cliente WEB do Zimbra
