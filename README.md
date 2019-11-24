@@ -40,7 +40,7 @@ APLICAÇÃO EM PARTICULAR.
 Os feriados foram importados com as seguintes configurações:
 
 1. Sem organizador, para o usuário visualizar como se tivesse sido criado por ele
-2. Com status de "Fora do escritório" para usuários visualizarem a indisponibilidade ao agendar compromissos
+2. Com status de "Fora do escritório" para os usuários visualizarem a indisponibilidade ao agendar compromissos
 3. Sem lembrete
 
 
@@ -48,7 +48,7 @@ Os feriados foram importados com as seguintes configurações:
 
 ## Como utilizar
 
-Importar o arquivo .ics para todos as contas do ambiente conforme o EXEMPLO abaixo:
+Importar o arquivo .ics para todas as contas do ambiente conforme o EXEMPLO abaixo:
 
 > wget https://github.com/BktechBrazil/zimbra-feriados-brasil/raw/master/Brasil-feriados-2020.ics
 
