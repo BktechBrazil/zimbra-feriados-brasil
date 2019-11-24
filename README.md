@@ -29,3 +29,11 @@ Proclamação da República: 15 de novembro | domingo
 Natal: 25 de dezembro | sexta-feira | obs.: sem expediente na véspera
 
 Ano novo (2020/2021): 1º de janeiro | sexta-feira | obs.: sem expediente na véspera
+
+#Como utilizar
+
+Importar o arquivo .ics para todos as contas do ambiente conforme o EXEMPLO abaixo:
+
+zmmailbox -z -m conta@dominio.com.br pru /Calendar 
+
+
