@@ -1,8 +1,6 @@
-# zimbra-feriados-brasil
+# Eventos de feriados nacionais do Brasil - 2020
 
-Eventos de feriados nacionais do Brasil - 2020
-
-# Padrão utilizado:
+## Padrão utilizado:
 
 Ano novo (2019/2020): 1º de janeiro | quarta-feira | obs.: sem expediente na véspera
 
