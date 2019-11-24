@@ -1,0 +1,1 @@
+zmmailbox -z -m conta@dominio.com.br pru /Calendar Brasil-feriados-2020.ics
