@@ -30,7 +30,7 @@ Ano novo (2020/2021): 1º de janeiro | sexta-feira | obs.: sem expediente na vé
 
 ## Feriados importados
 
-!(https://github.com/BktechBrazil/zimbra-feriados-brasil/blob/master/feriados_2020_brasil.png)
+![](https://github.com/BktechBrazil/zimbra-feriados-brasil/blob/master/feriados_2020_brasil.png)
 
 ## Como utilizar
 
