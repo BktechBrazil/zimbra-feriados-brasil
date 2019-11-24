@@ -32,6 +32,7 @@ Ano novo (2020/2021): 1º de janeiro | sexta-feira | obs.: sem expediente na vé
 
 Importar o arquivo .ics para todos as contas do ambiente conforme o EXEMPLO abaixo:
 
-zmmailbox -z -m conta@dominio.com.br pru /Calendar Brasil-feriados-2020.ics
+> zmmailbox -z -m conta@dominio.com.br pru /Calendar Brasil-feriados-2020.ics
 
+### Também pode ser importado atavés da opção Exportar/Importar do cliente WEB do Zimbra
 ### Podem ser criados arquivos .ics complementares para feriados regionais e/ou datas comemorativas da empresa
