@@ -30,6 +30,13 @@ Ano novo (2020/2021): 1º de janeiro | sexta-feira | obs.: sem expediente na vé
 
 ## Feriados importados
 
+Os feriados foram importados com as seguintes configurações:
+
+1. Sem organizador, para o usuário visualizar como se tivesse sido criado por ele
+2. Com status de "Fora do escritório" para usuários visualizarem a indisponibilidade ao agendar compromissos
+3. Sem lembrete
+
+
 ![](https://github.com/BktechBrazil/zimbra-feriados-brasil/blob/master/feriados_2020_brasil.png)
 
 ## Como utilizar
