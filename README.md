@@ -17,7 +17,7 @@ APLICAÇÃO EM PARTICULAR.
 
 * Páscoa: 12 de abril | domingo
 
-* Tiradentes: 21 de abril | terça-feira | obs.: sem expediente na quinta-feira
+* Tiradentes: 21 de abril | terça-feira | obs.: sem expediente na segunda-feira
 
 * Dia do Trabalho: 1º de maio | sexta-feira
 
